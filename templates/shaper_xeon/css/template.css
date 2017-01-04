@@ -656,6 +656,18 @@ body.subpage {
 #sp-service-wrapper .icon-windows {
   background-color: #3498db;
 }
+#sp-service-wrapper .fa-html5 {
+  background-color: #3498db;
+}
+
+#sp-service-wrapper .fa-low-vision {
+  background-color: #3498db;
+}
+#sp-service-wrapper .fa-university ,#sp-service-wrapper .fa-object-group {
+  background-color: #3498db;
+}
+
+
 #sp-service-wrapper .icon-html5 {
   background-color: #8e44ad;
 }
